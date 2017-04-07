@@ -14,4 +14,333 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="合唱队.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算字符个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串最后一个单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="识别有效的IP地址和掩码并进行分类统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="句子逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求int型正整数在内存中存储时1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="记负均正.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串反转.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找输入整数二进制中1的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串加解密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串加密.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="挑7.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数字颠倒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符个数统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汽水瓶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算字符串的距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="提取不重复的整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="明明的随机数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="名字的漂亮度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="单词倒排.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计每个月兔子的总数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Redraiment的走法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="公共字串计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找两个字符串a,b中的最长公共子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串分隔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="寻找等差数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="火车进站.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="成绩排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中级-寻找等差数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="统计大写字母个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DNA序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符逆序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="删除字符串中出现次数最少的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="图片整理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="四则运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入整型数组和排序标识，对其元素按照升序或降序进行排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单密码破解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="找出字符串中第一个只出现一次的字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="INOC产品部-完全数计算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初级记负均正.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串运用-密码截取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求小球落地5次后所经历的路程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求解立方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合并表记录.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字串的连接最长路径查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入n个整数，输出其中最小的k个.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="尼科彻斯定律.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="放苹果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="学英语.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多线程.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找组成一个偶数最接近的两个素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="质数因子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取近似值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="密码验证合格程序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找兄弟单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串合并处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="按字节截取字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="百钱买百鸡.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24点游戏算法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵乘法计算量估算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最大连续bit数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算日期到天数转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="表示数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="中级-字符串运用-密码截取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="超长正整数想加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蛇形矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断两个IP是否属于同一子网.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="称砝码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角的变形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算字符串的相似度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="矩阵乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串通配符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="等差数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="合法IP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="密码强度等级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自守树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整形数组合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="在字符串中找出连续最长的数字串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="记票统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JAVA题目0-1级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="整数与IP地址间的转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="人民币转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JAVA题目2-3级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sudoku.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="坐标移动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="购物单.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="简单错误记录.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MP3光标位置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24点运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输出单向链表中倒数第K个节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="参数解析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="素数伴侣.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="线性插值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="无线OSS-高精度整数加法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="扑克牌大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="将真分数分解为埃及分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="从单向链表中删除指定值的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="笔画.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="配置文件恢复.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据分类处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="自动售货系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
