@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1.1.cpp" />
     <ClCompile Include="24点游戏算法.cpp" />
     <ClCompile Include="24点运算.cpp" />
     <ClCompile Include="DNA序列.cpp" />
@@ -241,6 +242,7 @@
     <ClCompile Include="识别有效的IP地址和掩码并进行分类统计.cpp" />
     <ClCompile Include="质数因子.cpp" />
     <ClCompile Include="购物单.cpp" />
+    <ClCompile Include="购物结算系统.cpp" />
     <ClCompile Include="超长正整数想加.cpp" />
     <ClCompile Include="输入n个整数，输出其中最小的k个.cpp" />
     <ClCompile Include="输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数.cpp" />

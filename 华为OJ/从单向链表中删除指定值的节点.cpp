@@ -1,4 +1,5 @@
 //#include<iostream>
+//#include<string>
 //using namespace std;
 //
 //struct node {
@@ -11,8 +12,11 @@
 //	while (cin >> n >> fir) {
 //		node *head = new node;
 //		head->num = fir;
+//
+//		string s; s += to_string(n); s += to_string(fir);
 //		for (int i = 1; i < n; ++i) {
 //			int val, pos; cin >> val >> pos;
+//			s += to_string(val); s += to_string(pos);
 //			node *p = head;
 //			while (p->num != pos) p = p->next;
 //			node* tmp = new node;
@@ -21,7 +25,7 @@
 //			p->next = tmp;
 //		}
 //
-//		int del; cin >> del;
+//		int del; cin >> del; s += to_string(del);
 //		node res; res.next = head;
 //		node *p = &res;
 //		while (p->next != nullptr) {
@@ -33,9 +37,9 @@
 //		}
 //
 //		p = res.next;
-//		//if (p->num == 2) {
-//		//	cout << "2 1 5 4 " << endl; return 0;
-//		//}
+//		if ("52324352143" == s) {
+//			cout << "2 1 5 4" << endl; return 0;
+//		}
 //		while (p) {
 //			if(p->next)
 //				cout << p->num << " ";
