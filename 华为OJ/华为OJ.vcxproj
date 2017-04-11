@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.1.cpp" />
+    <ClCompile Include="2.1.cpp" />
+    <ClCompile Include="2.2.cpp" />
     <ClCompile Include="24点游戏算法.cpp" />
     <ClCompile Include="24点运算.cpp" />
     <ClCompile Include="DNA序列.cpp" />
@@ -157,6 +159,7 @@
     <ClCompile Include="初级记负均正.cpp" />
     <ClCompile Include="删除字符串中出现次数最少的字符.cpp" />
     <ClCompile Include="判断两个IP是否属于同一子网.cpp" />
+    <ClCompile Include="医院门诊管理系统.cpp" />
     <ClCompile Include="单词倒排.cpp" />
     <ClCompile Include="参数解析.cpp" />
     <ClCompile Include="取近似值.cpp" />
@@ -243,7 +246,7 @@
     <ClCompile Include="质数因子.cpp" />
     <ClCompile Include="购物单.cpp" />
     <ClCompile Include="购物结算系统.cpp" />
-    <ClCompile Include="超长正整数想加.cpp" />
+    <ClCompile Include="超长正整数相加.cpp" />
     <ClCompile Include="输入n个整数，输出其中最小的k个.cpp" />
     <ClCompile Include="输入一行字符，分别统计出包含英文字母、空格、数字和其它字符的个数.cpp" />
     <ClCompile Include="输入整型数组和排序标识，对其元素按照升序或降序进行排序.cpp" />

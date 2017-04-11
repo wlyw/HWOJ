@@ -225,9 +225,6 @@
     <ClCompile Include="中级-字符串运用-密码截取.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="超长正整数想加.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="蛇形矩阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -346,6 +343,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="医院门诊管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="超长正整数相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
