@@ -148,6 +148,8 @@
     <ClCompile Include="3.2.cpp" />
     <ClCompile Include="4.1.cpp" />
     <ClCompile Include="4.2.cpp" />
+    <ClCompile Include="4.3.cpp" />
+    <ClCompile Include="4.4.cpp" />
     <ClCompile Include="DNA序列.cpp" />
     <ClCompile Include="INOC产品部-完全数计算.cpp" />
     <ClCompile Include="JAVA题目0-1级.cpp" />
